@@ -1,0 +1,34 @@
+.servicos-texto {
+    color: #1a2c32;
+    margin: 53px;
+    padding: 0 16px;
+    width: 250px;
+}
+
+
+ul li {
+    font-size: 1em;
+    padding-bottom: 5px;
+    padding-top: 0;;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 0; 
+}
+
+.flex {
+    display: flex;
+}
+
+.table {
+    color: #1a2c32;
+    margin: 53px;
+    padding: 26px 16px;
+    width: 250px;
+}
+
+tr:hover {
+    background-color: #f2f9f9;
+    transition: 0.2s;
+}

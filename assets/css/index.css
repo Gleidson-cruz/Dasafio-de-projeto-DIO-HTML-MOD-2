@@ -1,0 +1,16 @@
+.descricao {
+    margin: 53px;
+    padding: 0 16px;
+    color: #1a2c32;
+}
+.descricao p {
+    font-size: 2rem;
+}
+
+mark {
+    background-color: #356169;
+}
+
+span {
+    color: #fff;
+}

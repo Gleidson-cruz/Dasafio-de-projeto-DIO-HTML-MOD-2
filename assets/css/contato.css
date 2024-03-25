@@ -1,0 +1,68 @@
+.flex {
+    display: flex;
+}
+
+.flex-div {
+    padding: 16px;
+    margin: 16px;
+}
+
+.flex-div p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.zap {
+    background-color: #009919;
+    color: #fff;
+    font-weight: bold;
+}
+
+.central {
+    background-color: #1a2c32;
+    color: #fff;
+    font-weight: bold;
+}
+
+label {
+    margin: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+input {
+    width: 250px;
+    height: 25px;
+    border: 2px solid;
+    color: #1a2c32;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+textarea {
+    width: 250px;
+    height: 25px;
+    border: 2px solid;
+    color: #1a2c32;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+button {
+    width: 75px;
+    height: 25px;
+    background-color: #5faab1;
+    border: none;
+    margin: 8px;
+    margin-top: 0;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #3b757f;
+    transition: 0.5s;
+}
+
+iframe {
+    margin-top: 26px;
+}
